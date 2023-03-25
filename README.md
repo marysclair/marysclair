@@ -1,1 +1,20 @@
-Sou técnica em informática pelo Campus Patos do IFPB e atualmente sou estudante do segundo período de Análise e Desenvolvimento de Sistemas no Campus Cajazeiras do IFPB. No ensino médio, fui monitora duas vezes consecutivas na disciplina de Algoritmo e Lógica de programação. Concluindo o médio com uma monografia também na área, titulada como "REPRODUZINDO VIESES: OS LIMITES SOCIAIS DOS ALGORITMOS DE INTELIGÊNCIA ARTIFICIAL" (em processo de publicação). Tenho experiência com as linguagens C, C++, Java, PHP, HTML e CSS. Estudando Python, R e Javascript. 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=header">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=B22222&width=1000&center=true&lines=Oi!+Sou+Maria+Clara;Estudante+do+terceiro+período+de+ADS;Apaixonada+por+front-end;Bem+vindo(a)+ao+meu+perfil+🌹)](https://git.io/typing-svg)
+
+## Um pouco sobre mim...
+<ul>
+       <li> 📌 Técnica em informática pelo IFPB - Patos </li>
+        <li>📌 Terceiro período em Análise e Desenvolvimento de Sistemas, IFPB - Cajazeiras </li>
+        <li>📌 Tecnologias que eu curto: HTML, CSS, Javascript, Python, R, C </li>
+        <li>📌 Estou estudando: Bootstrap, Java, SASS </li>
+        <li>📌 Pretendo estudar: React, Lua </li>
+</ul>
+
+<div style="display:flex" align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marysclair&show_icons=true&hide_border=true&theme=transparent&title_color=B22222&text_color=c9d1d9&icon_color=B22222&color=00" alt="Maria Clara's github stats" />
+    <img width="35%" src="https://i.pinimg.com/originals/0d/30/a7/0d30a75f6af5dfe821889b6f5ebbdc3d.jpg">
+    </img>
+ </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=footer">
