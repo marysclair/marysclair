@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=header">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=B22222&width=1000&center=true&lines=Oi!+Sou+Maria+Clara;Estudante+do+quarto+período+de+ADS;Apaixonada+por+front-end;Bem+vindo(a)+ao+meu+perfil+🌹)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=B22222&width=1000&center=true&lines=Oi!+Sou+Maria+Clara;Estudante+do+quinto+período+de+ADS;Apaixonada+por+front-end;Bem+vindo(a)+ao+meu+perfil+🌹)](https://git.io/typing-svg)
 
 ## Um pouco sobre mim...
 <ul>
        <li> 📌 Técnica em informática pelo IFPB - Patos </li>
-        <li>📌 Quarto período em Análise e Desenvolvimento de Sistemas, IFPB - Cajazeiras </li>
-        <li>📌 Tecnologias que eu curto: HTML, CSS, Javascript, Python, React, Tailwindcss </li>
-        <li>📌 Estou estudando: React, Typescript, Nodejs, Nextjs </li>
+        <li>📌 Quinto período em Análise e Desenvolvimento de Sistemas, IFPB - Cajazeiras </li>
+        <li>📌 Tecnologias que eu curto: HTML, CSS, Javascript, Typescript, Python, React, Nextjs, Tailwindcss </li>
+        <li>📌 Estou estudando: Astro, Vite </li>
         <li>📌 Pretendo estudar: Lua </li>
 </ul>
 
