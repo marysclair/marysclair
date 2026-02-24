@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=header">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=B22222&width=1000&center=true&lines=Oi!+Sou+Maria+Clara;Formada+em+ADS;Apaixonada+por+desenvolvimento+web;Bem+vindo(a)+ao+meu+perfil+🌹)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=FFF649&width=1000&center=true&lines=Oi!+Sou+Maria+Clara;Formada+em+ADS;Apaixonada+por+desenvolvimento+web;Bem+vindo(a)+ao+meu+perfil+🌻)](https://git.io/typing-svg)
 
 ## Um pouco sobre mim...
 <ul>
@@ -16,4 +16,4 @@
     </img>
  </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=footer">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF649&height=120&section=footer">
