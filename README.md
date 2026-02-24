@@ -12,7 +12,6 @@
 </ul>
 
 <div style="display:flex" align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marysclair&show_icons=true&hide_border=true&theme=transparent&title_color=B22222&text_color=c9d1d9&icon_color=B22222&color=00" alt="Maria Clara's github stats" />
     <img width="35%" src="https://i.pinimg.com/originals/0d/30/a7/0d30a75f6af5dfe821889b6f5ebbdc3d.jpg">
     </img>
  </div>
