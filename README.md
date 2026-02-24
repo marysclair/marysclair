@@ -6,6 +6,7 @@
 <ul>
        <li> 📌 Técnica em informática pelo IFPB - Patos </li>
         <li>📌 Analista e Desenvolvedora de Sistemas, IFPB - Cajazeiras </li>
+        <li>📌 Mestranda em TI em CDI, IFPB - João Pessoa </li>
         <li>📌 Tecnologias que eu curto: HTML, CSS, Javascript, Typescript, Python, React, Vite, Tailwindcss, Java, Spring, Express, Bancos SQL e NOSQL </li>
         <li>📌 Pretendo estudar: Angular </li>
 </ul>
